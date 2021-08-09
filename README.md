@@ -44,6 +44,6 @@ Licensed under the Apache License, Version 2.0
 * Release
 
 
-
-My Twitter    = http://twitter.com/Miftach_udin
+Website.      = https://dunia.web.id/
+My Twitter    = @miftach_udin
 
