@@ -45,5 +45,6 @@ Licensed under the Apache License, Version 2.0
 
 
 Website.      = https://dunia.web.id/
-My Twitter    = @miftach_udin
+
+Twitter    = @miftach_udin
 
