@@ -43,8 +43,5 @@ Licensed under the Apache License, Version 2.0
 -= 0.1 - 3 January 2013 =-
 * Release
 
-
-Website.      = https://dunia.web.id/
-
 Twitter    = @miftach_udin
 
