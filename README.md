@@ -31,7 +31,6 @@ Licensed under the Apache License, Version 2.0
 * fix style.css
 
 
-
 -= 0.2 - 10 January 2013 =-
 * Fix function feature Image 
 * Update style.css and single.css
@@ -42,6 +41,3 @@ Licensed under the Apache License, Version 2.0
 
 -= 0.1 - 3 January 2013 =-
 * Release
-
-Twitter    = @miftach_udin
-
